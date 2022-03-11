@@ -2,7 +2,7 @@ const newFormHandler = async (event) => {
     event.preventDefault();
   
     const content = document.querySelector('#comment-area').value.trim();
-    const post_id = content.dataset.id;
+    const post_id = window.location.pathname.split('/').pop();
 
     console.log("Post ID: " + post_id);
   
