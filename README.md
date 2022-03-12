@@ -4,7 +4,7 @@ Developer: Sydney Mercier
 
 For: UT Austin Coding Bootcamp
 
-Deployed: 
+Deployed: https://mercier-tech-blog.herokuapp.com/
 
 ## Overview
 
